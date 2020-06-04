@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Created by shanfenglan on 2020/5/27
 import curses,random,time,sys,re
-#Todo 技能模块。222
+#Todo 技能模块。222a asdfsadfsa
 
 
 def game():
